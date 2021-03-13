@@ -1,4 +1,6 @@
 # Three-phase phase-controlled full-wave rectifier with RL load (MATLAB Simulink)
+## Contents:
+1) 
 This project is a simulation of the three-phase phase-controlled full-wave rectifier in Simulink. The general configuration for the controlled threephase
 rectifier is shown on the figure below
 
@@ -6,4 +8,4 @@ rectifier is shown on the figure below
 
 Pulses generated for siz thyristors are as follows:
 
-![Thyristor pulses](pulse.JPG)
+![Thyristor pulses](pulse.jpg)
